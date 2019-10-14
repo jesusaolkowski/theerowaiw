@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oodeegeesh.ben-sharp.com/sitemap.xml
